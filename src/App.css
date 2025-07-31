@@ -1,0 +1,15 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.form input{
+    padding: 5px;
+}
+.form button{
+    padding: 7px;
+    background-color: green;
+    color: white;
+}
